@@ -5,7 +5,7 @@ Reverse lookup on any phone number
 This tool allows to get information about phone numbers from different number validation services
 
 ## Features
-The project is alpha version and uses only 3 API-s:
+The project is new and uses only 3 API-s:
 numverify, abstract and twilio
 
 ## Configuration
