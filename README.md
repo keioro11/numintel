@@ -19,7 +19,6 @@ Install requirements:
 `pip install -r requirements.txt --break-system-packages`
 
 Example:
-`python3 numintel.py +"your number in international format"`
 `python3 numintel.py +7395541XXXX`
 
 Including region:
