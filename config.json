@@ -5,3 +5,6 @@
   "TWILIO_AUTH_TOKEN": "your-twilio-auth-token"
 }
 
+// https://numverify.com << Numverify API
+// https://www.abstractapi.com << Abstract API
+// https://www.twilio.com/docs/usage/api << Twilio API
