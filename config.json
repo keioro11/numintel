@@ -1,7 +1,7 @@
 {
-  "NUMVERIFY_API_KEY": "9f3709a222e4f9f83e4a3156502d5115",
-  "ABSTRACT_API_KEY": "c3274c5fa8bf45a8a77a61b0f3f2a162",
-  "TWILIO_ACCOUNT_SID": "AC2278fab636b5fe572de5f1a60878fbc4",
-  "TWILIO_AUTH_TOKEN": "7a4bab8c19db35ba8910d4c9d25cca13"
+  "NUMVERIFY_API_KEY": "your-numverify-api",
+  "ABSTRACT_API_KEY": "your-abstract-api",
+  "TWILIO_ACCOUNT_SID": "your-twilio-sid",
+  "TWILIO_AUTH_TOKEN": "your-twilio-auth-token"
 }
 
