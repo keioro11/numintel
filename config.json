@@ -1,0 +1,7 @@
+{
+  "NUMVERIFY_API_KEY": "your-numverify-api",
+  "ABSTRACT_API_KEY": "your-abstract-api",
+  "TWILIO_ACCOUNT_SID": "your-twilio-sid",
+  "TWILIO_AUTH_TOKEN": "your-twilio-auth-token"
+}
+
