@@ -28,5 +28,5 @@ Output in json structure:
 `python3 numintel.py +7395541XXXX --json`
 
 ## To do list
-- [] Integrate more APIs
-- [] Add search engine dorks with different number formats
+- [ ] Integrate more APIs
+- [ ] Add search engine dorks with different number formats
